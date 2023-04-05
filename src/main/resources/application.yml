@@ -1,0 +1,11 @@
+---
+server:  port: 8090
+appName: YAML Application
+policy:
+  id: 92
+  name: Rod
+  tenure: 93
+  insurredAmount: 700000
+  planName: universal plan
+  planType: medical
+...  
