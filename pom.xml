@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.mamidi</groupId>
-    <artifactId>Spring-Boot</artifactId>
+    <artifactId>hello-ms</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Spring-Boot</name>
     <description>Spring-Boot</description>
